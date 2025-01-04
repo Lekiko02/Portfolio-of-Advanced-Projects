@@ -39,7 +39,7 @@ This project is a web-based simulation of an e-commerce platform inspired by Ama
 
 ## Directory Structure
 
-```
+
 project/
 ├── images/
 │   ├── amazon-logo-white.png
@@ -60,17 +60,17 @@ project/
 │           ├── checkout-header.css
 │           └── checkout.css
 └── index.html (main entry page)
-```
+
 
 ---
 
 ## How to Run
 
 1. **Clone the repository**:
-   ```bash
+   bash
    git clone https://github.com/yourusername/amazon-web-clone.git
    cd amazon-web-clone
-   ```
+   
 
 2. **Open the project**:
    - Simply open `index.html` in your browser to view the homepage.
