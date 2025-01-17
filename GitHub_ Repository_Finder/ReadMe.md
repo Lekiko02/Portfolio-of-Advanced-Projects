@@ -1,6 +1,5 @@
-Here’s a base `README.md` file tailored to your project:
 
-```markdown
+
 # GitHub Language-Based Repository Explorer
 
 This project is a web application that allows users to explore GitHub repositories based on programming languages. It uses the GitHub API to fetch and display repositories sorted by popularity (stars). Users can select a programming language, view repository details, and refresh for new recommendations.
