@@ -87,6 +87,9 @@ Feel free to fork this repository, open an issue, or submit a pull request if yo
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+![ezgif-5-2d78dc24f8](https://github.com/user-attachments/assets/63b8cb72-7a56-445b-bcf1-b9721175bcc9)
+
 ```
 
 ### Notes:
@@ -95,4 +98,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 3. Ensure you secure the API token by removing or obscuring it in public repositories.
 
 
-![ezgif-5-2d78dc24f8](https://github.com/user-attachments/assets/f8a38f2e-ceb5-4183-b075-f59d65ca890e)
+
