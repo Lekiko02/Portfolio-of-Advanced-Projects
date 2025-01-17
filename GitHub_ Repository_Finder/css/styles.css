@@ -1,0 +1,87 @@
+body{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: sans-serif;
+  width: 100%;
+}
+
+.main {
+    
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-around;
+    height: 250px;
+}
+
+.js-select{
+    width: 395px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+
+.name {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.down-diplay{
+    height: 500px;
+    width: 50%;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.container{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    
+    width: 373px;
+    border-radius: 10px;
+    border: 2px solid black;
+    height: auto; /* Allows the height to adjust */
+  
+}
+
+.js-refresh{
+    width: 395px;
+    height: 35px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+
+
+
+.repo {
+    word-wrap: break-word; /* Break long text */
+    word-break: break-word; /* Ensure compatibility */
+    overflow-wrap: break-word; /* Modern compatibility */
+    margin-bottom: 10px;
+    color: grey;
+}
+
+/* Footer Info */
+.footer {
+    display: flex;
+    gap: 10px; /* Add spacing between items */
+    font-size: 14px;
+}
+
+.box{
+    border-radius: 5px;
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.title{
+    display: flex;
+    font-weight: bold;
+    font-size: 25px;
+    align-items: center;
+}
