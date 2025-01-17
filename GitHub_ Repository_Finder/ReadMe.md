@@ -2,7 +2,8 @@
 
 # GitHub Language-Based Repository Explorer
 
-![ezgif-5-2d78dc24f8](https://github.com/user-attachments/assets/63b8cb72-7a56-445b-bcf1-b9721175bcc9)
+![ezgif-5-f69cf021a0](https://github.com/user-attachments/assets/e7480781-ed19-4034-81d7-4467dc7d3d72)
+
 
 This project is a web application that allows users to explore GitHub repositories based on programming languages. It uses the GitHub API to fetch and display repositories sorted by popularity (stars). Users can select a programming language, view repository details, and refresh for new recommendations.
 
