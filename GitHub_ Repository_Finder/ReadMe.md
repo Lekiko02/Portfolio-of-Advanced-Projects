@@ -93,3 +93,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 1. Replace placeholders like `your-username/your-repository` with actual links/details.
 2. Add relevant screenshots to the "Screenshots" section if available.
 3. Ensure you secure the API token by removing or obscuring it in public repositories.
+
+
+![ezgif-5-2d78dc24f8](https://github.com/user-attachments/assets/f8a38f2e-ceb5-4183-b075-f59d65ca890e)
