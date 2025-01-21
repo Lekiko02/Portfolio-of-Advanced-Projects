@@ -69,10 +69,6 @@ This project is a web application that allows users to explore GitHub repositori
 - View a random popular repository in that language.
 - Click "Refresh" to see another repository recommendation.
 
-## Screenshots
-
-*(Add relevant screenshots of your application here.)*
-
 ## API Usage
 
 - This project uses the [GitHub REST API](https://docs.github.com/en/rest) to fetch repositories.
